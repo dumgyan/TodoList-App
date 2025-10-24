@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "website": "johndoe.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "jane@example.com",
+      "phone": "987-654-3210",
+      "website": "janesmith.io"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "username": "mikeb",
+      "email": "michael@example.com",
+      "phone": "555-123-4567",
+      "website": "mikebrown.dev"
+    },
+    {
+      "id": 4,
+      "name": "Emily Johnson",
+      "username": "emilyj",
+      "email": "emily@example.com",
+      "phone": "444-222-1111",
+      "website": "emilyjohnson.org"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "username": "davidw",
+      "email": "david@example.com",
+      "phone": "333-999-8888",
+      "website": "davidwilson.net"
+    }
+  ]
+}
